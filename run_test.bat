@@ -1,0 +1,1 @@
+call gradle cleanTest  test jacocoTestReport
